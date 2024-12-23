@@ -1,0 +1,264 @@
+```
+1922_20241220_153921790
+AllSize_[ 0.7GB ] [ 763.0MB ]
+AllDirCount [   101   ]
+AllFileCount[   122   ]
+AllFileType [     8   ]
+CurrentPATH [D:\Git_Dir\mp4_lin_action]
+
+
+
+
+Dir[ 101_1    ]   Size[  323.5MB      ]    D:\Git_Dir\mp4_lin_action\mp4_lin_port\koujiao
+Dir[ 101_2    ]   Size[  209.7MB      ]    D:\Git_Dir\mp4_lin_action\.git\lfs\objects\b9\ac
+Dir[ 101_3    ]   Size[   91.3MB      ]    D:\Git_Dir\mp4_lin_action\.git\lfs\objects\1e\e8
+Dir[ 101_4    ]   Size[   22.5MB      ]    D:\Git_Dir\mp4_lin_action\.git\lfs\objects\e8\fe
+Dir[ 101_5    ]   Size[   17.8MB      ]    D:\Git_Dir\mp4_lin_action\.git\lfs\objects\8b\e2
+Dir[ 101_6    ]   Size[   17.8MB      ]    D:\Git_Dir\mp4_lin_action\mp4_lin_port\zhubo
+Dir[ 101_7    ]   Size[   16.2MB      ]    D:\Git_Dir\mp4_lin_action\.git\lfs\objects\eb\4d
+Dir[ 101_8    ]   Size[   16.2MB      ]    D:\Git_Dir\mp4_lin_action\mp4_lin_port\renyao
+Dir[ 101_9    ]   Size[   16.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\lfs\objects\88\e6
+Dir[ 101_10   ]   Size[   16.0MB      ]    D:\Git_Dir\mp4_lin_action\mp4_lin_port\mlyxx
+Dir[ 101_11   ]   Size[    8.0MB      ]    D:\Git_Dir\mp4_lin_action\mp4_lin_port
+Dir[ 101_12   ]   Size[    2.7MB      ]    D:\Git_Dir\mp4_lin_action\.git\lfs\objects\0e\c1
+Dir[ 101_13   ]   Size[    2.3MB      ]    D:\Git_Dir\mp4_lin_action\.git\lfs\objects\24\33
+Dir[ 101_14   ]   Size[    2.1MB      ]    D:\Git_Dir\mp4_lin_action\.git\lfs\objects\95\04
+Dir[ 101_15   ]   Size[    0.9MB      ]    D:\Git_Dir\mp4_lin_action\.git\lfs\objects\7a\2e
+Dir[ 101_16   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\hooks
+Dir[ 101_17   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git
+Dir[ 101_18   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\lfs\objects\6c\ad
+Dir[ 101_19   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\objects\pack
+Dir[ 101_20   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\lfs\objects\cd\19
+Dir[ 101_21   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\lfs\objects\38\0b
+Dir[ 101_22   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\lfs\objects\bd\a3
+Dir[ 101_23   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\lfs\objects\d2\64
+Dir[ 101_24   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\lfs\objects\c9\ba
+Dir[ 101_25   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\lfs\objects\fa\29
+Dir[ 101_26   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\logs
+Dir[ 101_27   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\logs\refs\heads
+Dir[ 101_28   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\lfs\tmp
+Dir[ 101_29   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action
+Dir[ 101_30   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\logs\refs\remotes\origin
+Dir[ 101_31   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\objects\b4
+Dir[ 101_32   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\objects\38
+Dir[ 101_33   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\lfs
+Dir[ 101_34   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\lfs\objects
+Dir[ 101_35   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\objects\be
+Dir[ 101_36   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\objects\79
+Dir[ 101_37   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\info
+Dir[ 101_38   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\objects\a8
+Dir[ 101_39   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\objects\2b
+Dir[ 101_40   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\objects\5d
+Dir[ 101_41   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\objects\a0
+Dir[ 101_42   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\lfs\objects\b9
+Dir[ 101_43   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\objects\f2
+Dir[ 101_44   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\objects\f1
+Dir[ 101_45   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\objects\01
+Dir[ 101_46   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\objects\50
+Dir[ 101_47   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\objects\82
+Dir[ 101_48   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\objects\10
+Dir[ 101_49   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\objects\2d
+Dir[ 101_50   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\objects\4d
+Dir[ 101_51   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\objects\77
+Dir[ 101_52   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\objects\bd
+Dir[ 101_53   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\objects\e4
+Dir[ 101_54   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\objects\f5
+Dir[ 101_55   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\objects\8d
+Dir[ 101_56   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\objects\e1
+Dir[ 101_57   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\objects\66
+Dir[ 101_58   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\objects\b9
+Dir[ 101_59   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\objects\e6
+Dir[ 101_60   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\objects\ce
+Dir[ 101_61   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\objects\8c
+Dir[ 101_62   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\lfs\objects\1e
+Dir[ 101_63   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\objects\35
+Dir[ 101_64   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\objects\1d
+Dir[ 101_65   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\objects\1f
+Dir[ 101_66   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\refs\remotes\origin
+Dir[ 101_67   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\refs\heads
+Dir[ 101_68   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\lfs\objects\da\82
+Dir[ 101_69   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\lfs\objects\de\f7
+Dir[ 101_70   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\lfs\cache\locks\refs\heads\main
+Dir[ 101_71   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\lfs\objects\e8
+Dir[ 101_72   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\lfs\objects\8b
+Dir[ 101_73   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\lfs\objects\13\c4
+Dir[ 101_74   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\lfs\objects\c9\eb
+Dir[ 101_75   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\lfs\objects\eb
+Dir[ 101_76   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\lfs\objects\88
+Dir[ 101_77   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\lfs\objects\0e
+Dir[ 101_78   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\lfs\objects\24
+Dir[ 101_79   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\lfs\objects\95
+Dir[ 101_80   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\lfs\cache\locks\refs\heads
+Dir[ 101_81   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\lfs\cache\locks\refs
+Dir[ 101_82   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\lfs\cache\locks
+Dir[ 101_83   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\lfs\cache
+Dir[ 101_84   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\lfs\objects\13
+Dir[ 101_85   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\lfs\objects\38
+Dir[ 101_86   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\lfs\objects\6c
+Dir[ 101_87   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\lfs\objects\7a
+Dir[ 101_88   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\lfs\objects\bd
+Dir[ 101_89   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\lfs\objects\c9
+Dir[ 101_90   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\lfs\objects\cd
+Dir[ 101_91   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\lfs\objects\d2
+Dir[ 101_92   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\lfs\objects\da
+Dir[ 101_93   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\lfs\objects\de
+Dir[ 101_94   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\lfs\objects\fa
+Dir[ 101_95   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\logs\refs\remotes
+Dir[ 101_96   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\logs\refs
+Dir[ 101_97   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\objects\info
+Dir[ 101_98   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\objects
+Dir[ 101_99   ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\refs\remotes
+Dir[ 101_100  ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\refs\tags
+Dir[ 101_101  ]   Size[    0.0MB      ]    D:\Git_Dir\mp4_lin_action\.git\refs
+
+
+
+
+File[ 122_1     ] Size[   209.7MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\lfs\objects\b9\ac\b9acee152c5a27363a50ec051366b299465e304916f54484ca938e17410032a8
+File[ 122_2     ] Size[   209.7MB ]  Path: D:\Git_Dir\mp4_lin_action\mp4_lin_port\koujiao\5531c1039efbca0a8e2e95232bd1309f
+File[ 122_3     ] Size[    91.3MB ]  Path: D:\Git_Dir\mp4_lin_action\mp4_lin_port\koujiao\346243fe5394f36d89aebabafe5a2471
+File[ 122_4     ] Size[    91.3MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\lfs\objects\1e\e8\1ee8e75ac6b74c3b2e194d09fc680b76dc3f86931d1bd2ce945d903e25f7575e
+File[ 122_5     ] Size[    22.5MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\lfs\objects\e8\fe\e8fedb412b0e004d950304bf32c02ae853bc0cec477dd1d7981c482fd9f08c76
+File[ 122_6     ] Size[    22.5MB ]  Path: D:\Git_Dir\mp4_lin_action\mp4_lin_port\koujiao\b9ded19a508eca389b2362a07659245a
+File[ 122_7     ] Size[    17.8MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\lfs\objects\8b\e2\8be205e365396340e320e1ef3c1f6b4663654e0d3e3bfdd76b2636e88eaf9fd0
+File[ 122_8     ] Size[    17.8MB ]  Path: D:\Git_Dir\mp4_lin_action\mp4_lin_port\zhubo\9b1d67ba023641383155c15498fdad7d
+File[ 122_9     ] Size[    16.2MB ]  Path: D:\Git_Dir\mp4_lin_action\mp4_lin_port\renyao\929f80963fa68ebd36077a3ab7de2148
+File[ 122_10    ] Size[    16.2MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\lfs\objects\eb\4d\eb4d3a037cea13d7626e32e048ac95dfe7ce358ec3f11808cbd80eb4af1e6904
+File[ 122_11    ] Size[    16.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\lfs\objects\88\e6\88e6198dea794c15edee787cce16e5c66d0f8b388fdc4b270dfd6ba12fc68202
+File[ 122_12    ] Size[    16.0MB ]  Path: D:\Git_Dir\mp4_lin_action\mp4_lin_port\mlyxx\24e54a92ec89c3b09fb72a77d365b3d
+File[ 122_13    ] Size[     2.7MB ]  Path: D:\Git_Dir\mp4_lin_action\mp4_lin_port\145de916b79c1b7dd4225659c747648e
+File[ 122_14    ] Size[     2.7MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\lfs\objects\0e\c1\0ec1c4f4bc5fe66c8625a8aa908306eb4b0a395ab892ceacdfab31e33afe50ba
+File[ 122_15    ] Size[     2.3MB ]  Path: D:\Git_Dir\mp4_lin_action\mp4_lin_port\eb96bdc9f38955a8cea0c56516ff3baa
+File[ 122_16    ] Size[     2.3MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\lfs\objects\24\33\24339b0b89c7be8b2d5545d9d6224a022db5116b3a803f122243fc6b2591fa68
+File[ 122_17    ] Size[     2.1MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\lfs\objects\95\04\9504be1b14ce4b4e6b6cf1dcdb220703766837d74c1df3549abbd8b0e0abd83f
+File[ 122_18    ] Size[     2.1MB ]  Path: D:\Git_Dir\mp4_lin_action\mp4_lin_port\995ed1430a4a83aeec63214faf474c51
+File[ 122_19    ] Size[     0.9MB ]  Path: D:\Git_Dir\mp4_lin_action\mp4_lin_port\dfa47d9a888a16cc2b7c647879548b5d
+File[ 122_20    ] Size[     0.9MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\lfs\objects\7a\2e\7a2e04f79bd76014cf051e446b2710a40196b6f037b506c3b523057aafacea9d
+File[ 122_21    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\hooks\pre-rebase.sample
+File[ 122_22    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\hooks\fsmonitor-watchman.sample
+File[ 122_23    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\hooks\update.sample
+File[ 122_24    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\hooks\push-to-checkout.sample
+File[ 122_25    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\hooks\sendemail-validate.sample
+File[ 122_26    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\lfs\objects\6c\ad\6cad6c31e51310c5cdc8abe3edcc740135d00982c5bfa72e18ab05af3546f972
+File[ 122_27    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\lfs\objects\cd\19\cd19a65da19148ecc06e12febf478f728105d8667ead6aafa670e30e5b014ecf
+File[ 122_28    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\lfs\objects\38\0b\380b0f2fa21185e7f2d1c5e7c2fb532e0fd590846cc8ef524cef4917dfb16ac3
+File[ 122_29    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\lfs\objects\bd\a3\bda31a3744740200c6c1e597f002818b2846c30c86162d1532d9987d9f7a68a0
+File[ 122_30    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\lfs\objects\d2\64\d26421def3634b8e1bb284aa8024e20044dec95fcc96308ddc21cfdcbeb43181
+File[ 122_31    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\lfs\objects\c9\ba\c9bac018aba5bb65a4e2a68debfaaba13653dc8671c6fbc65d818141badf712a
+File[ 122_32    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\lfs\objects\fa\29\fa29a3af3b25859c53671666a302902265ce7271ca3132d85e3c4389a1386cb1
+File[ 122_33    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\hooks\pre-commit.sample
+File[ 122_34    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\index
+File[ 122_35    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\logs\HEAD
+File[ 122_36    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\hooks\prepare-commit-msg.sample
+File[ 122_37    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\hooks\pre-push.sample
+File[ 122_38    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\logs\refs\heads\main
+File[ 122_39    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\objects\pack\pack-6c2b0a8e4abcfa9d5f30bb7f5b295f8436c5a3ee.idx
+File[ 122_40    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\lfs\tmp\3368388779
+File[ 122_41    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\hooks\commit-msg.sample
+File[ 122_42    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\objects\pack\pack-6c2b0a8e4abcfa9d5f30bb7f5b295f8436c5a3ee.pack
+File[ 122_43    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\objects\b4\43e92e51fd6f0cefe5ffe0860635280d46b854
+File[ 122_44    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\logs\refs\remotes\origin\main
+File[ 122_45    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\objects\38\bcb13c7dbfcd809b864ce8a2fbd0c768600a94
+File[ 122_46    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\hooks\pre-receive.sample
+File[ 122_47    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\hooks\applypatch-msg.sample
+File[ 122_48    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\hooks\pre-applypatch.sample
+File[ 122_49    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\hooks\pre-merge-commit.sample
+File[ 122_50    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\objects\be\b99ef4517f553df1c5957c67ce9ed8057daacd
+File[ 122_51    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\config
+File[ 122_52    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\gitk.cache
+File[ 122_53    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\hooks\post-checkout
+File[ 122_54    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\hooks\post-commit
+File[ 122_55    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\hooks\post-merge
+File[ 122_56    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\hooks\pre-push
+File[ 122_57    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\info\exclude
+File[ 122_58    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\objects\a8\342941338a6ad10c2710561653b8fc086ded90
+File[ 122_59    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\objects\2b\05b1add3814fd1aea924265a85a8b02e87926b
+File[ 122_60    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\objects\5d\563e356d46a04220c218aabec2632f786376c1
+File[ 122_61    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\objects\a0\2adc06d012442a207d14dda3aa0af96df87c84
+File[ 122_62    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\hooks\post-update.sample
+File[ 122_63    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\objects\f2\82babdb25a015be92c447bf4d9517d72c717e0
+File[ 122_64    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\logs\refs\remotes\origin\HEAD
+File[ 122_65    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\objects\f1\18dfb421b85c3d1eaf7bb725631681cce21957
+File[ 122_66    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\objects\82\d8dd98a0d660069c54829a33bf302411c0b4ad
+File[ 122_67    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\objects\50\069ee6270d8598358b364a329803ee36d06640
+File[ 122_68    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\objects\01\089d99b606ea8db861d66ca6cf12e08e02a060
+File[ 122_69    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\README.md
+File[ 122_70    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\objects\79\c73b8c3834337a71e41cd4e5ff35ed8a8d12da
+File[ 122_71    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\objects\10\9e77b3b43957823bda61cf45a163e6670bf267
+File[ 122_72    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\objects\4d\ca50f0d6eb064d246701242b89dfb865cf0f74
+File[ 122_73    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\objects\2d\56d256dba270ddceecfb59667f1bd505d13461
+File[ 122_74    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\objects\f5\60e192905f6e6965d8c377b0f9e654a79b633c
+File[ 122_75    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\objects\77\eded87cdcd46d5314e2acb92a2cc48ae89aee1
+File[ 122_76    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\objects\e4\79ec0737847937de1a6a17828a7897a5810c43
+File[ 122_77    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\objects\bd\37dfb7b3f461322184a7c83da4032cd4539678
+File[ 122_78    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\objects\e1\816e87767e57b00266229a104cd7c938ede11b
+File[ 122_79    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\objects\8d\ebeb4ca180f7d62e6f07ca5fb24cca2dcb627e
+File[ 122_80    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\objects\66\3b50c9d63fba90afda040d0af5207e4fea560b
+File[ 122_81    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\objects\b9\f5c9dabb3cbe1573950844c96ce40254ccfdac
+File[ 122_82    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\objects\e6\dd1bb6d32dd7ff31a7d9249994aa76ff0b56e5
+File[ 122_83    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\objects\ce\b0faaa6db7c511eb1f47d0e146938ea43f3369
+File[ 122_84    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\objects\8c\2902aab7a1a76bbbc458c02111906a4cacd9dc
+File[ 122_85    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\objects\79\e0adbb94e6ce153d2d7b132cb2e3e34e958394
+File[ 122_86    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\packed-refs
+File[ 122_87    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\FETCH_HEAD
+File[ 122_88    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\objects\35\c56ac33959d5f51dc70d15dfa580b7810a6598
+File[ 122_89    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\objects\1d\069b273f315b3d0ac06cc96a6455107ec3b9fd
+File[ 122_90    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\objects\1f\b9b25e5940116bad8bd3cf675e05a769ec243b
+File[ 122_91    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\description
+File[ 122_92    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\objects\pack\pack-6c2b0a8e4abcfa9d5f30bb7f5b295f8436c5a3ee.rev
+File[ 122_93    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\COMMIT_EDITMSG
+File[ 122_94    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\refs\heads\main
+File[ 122_95    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\refs\remotes\origin\main
+File[ 122_96    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\ORIG_HEAD
+File[ 122_97    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.gitattributes
+File[ 122_98    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\lfs\objects\da\82\da82a15e13b7163aef0def74f6e4e6fc5d1531269562e557084403ff032e62fb
+File[ 122_99    ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\lfs\objects\de\f7\def75e2f79ff36567281e64a7b7bcc22adb2c28ac078f6cb09d0df7ce06066c2
+File[ 122_100   ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\refs\remotes\origin\HEAD
+File[ 122_101   ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\lfs\cache\locks\refs\heads\main\verifiable
+File[ 122_102   ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\HEAD
+File[ 122_103   ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\lfs\objects\13\c4\13c43f3ac4fac8a115c5ef5638e03ce8b7daca4f1e00dd13955c26592e991b72
+File[ 122_104   ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\lfs\objects\c9\eb\c9ebeba8208a604d8851ccd5cbf5e09dfe8180a25132fff97b164c54a2580226
+File[ 122_105   ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\lfs\tmp\1936344788
+File[ 122_106   ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\lfs\tmp\282034595
+File[ 122_107   ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\lfs\tmp\2935326001
+File[ 122_108   ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\lfs\tmp\2587305569
+File[ 122_109   ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\lfs\tmp\350474264
+File[ 122_110   ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\lfs\tmp\1831565330
+File[ 122_111   ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\lfs\tmp\4286011390
+File[ 122_112   ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\lfs\tmp\3224317406
+File[ 122_113   ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\lfs\tmp\3638880451
+File[ 122_114   ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\lfs\tmp\1171828938
+File[ 122_115   ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\lfs\tmp\1112262911
+File[ 122_116   ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\lfs\tmp\3470078924
+File[ 122_117   ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\lfs\tmp\1602843097
+File[ 122_118   ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\lfs\tmp\3183657289
+File[ 122_119   ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\lfs\tmp\4033028434
+File[ 122_120   ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\lfs\tmp\926549785
+File[ 122_121   ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\lfs\tmp\4016963403
+File[ 122_122   ] Size[     0.0MB ]  Path: D:\Git_Dir\mp4_lin_action\.git\lfs\tmp\4032973847
+
+
+
+
+FileType:.cache           MatchCount:1               TypeSize:    0.0MB      .cache
+FileType:.gitattributes   MatchCount:1               TypeSize:    0.0MB      .gitattributes
+FileType:.idx             MatchCount:1               TypeSize:    0.0MB      .idx
+FileType:.md              MatchCount:1               TypeSize:    0.0MB      .md
+FileType:.pack            MatchCount:1               TypeSize:    0.0MB      .pack
+FileType:.rev             MatchCount:1               TypeSize:    0.0MB      .rev
+FileType:.sample          MatchCount:14              TypeSize:    0.0MB      .sample
+FileType:unknow           MatchCount:102             TypeSize:  763.0MB      unknow
+
+
+AllSize_[ 0.7GB ] [ 763.0MB ]
+AllDirCount [   101   ]
+AllFileCount[   122   ]
+AllFileType [     8   ]
+CurrentPATH [D:\Git_Dir\mp4_lin_action]
+
+
+
+
+
+
+```
